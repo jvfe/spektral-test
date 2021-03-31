@@ -30,7 +30,7 @@ jupyter-core==4.6.3
 jupyterlab==2.2.0
 jupyterlab-server==1.2.0
 Keras-Preprocessing==1.1.2
-lxml==4.5.2
+lxml==4.6.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
@@ -133,7 +133,7 @@ jupyter-core==4.6.3
 jupyterlab==2.2.0
 jupyterlab-server==1.2.0
 Keras-Preprocessing==1.1.2
-lxml==4.5.2
+lxml==4.6.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
